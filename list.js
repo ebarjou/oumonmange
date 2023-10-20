@@ -1,4 +1,4 @@
-data = [
+var data = [
     {
         "label": "Makito",
         "closed_day": "",
