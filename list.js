@@ -165,3 +165,4 @@ var data = [
         "tag": "chaud,italien"
     },
   ];
+module.exports = {data};
