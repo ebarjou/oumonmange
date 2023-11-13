@@ -163,5 +163,10 @@
         "label": "Ragazzi Di Peppone",
         "closed_day": "",
         "tag": "chaud,italien,long,atester"
+    },
+    {
+        "label": "Tasty Grill",
+        "closed_day": "",
+        "tag": "chaud,long"
     }
 ]
