@@ -7,47 +7,47 @@
     {
         "label": "Eat Salad",
         "closed_day": "",
-        "tag": "froid,salade"
+        "tag": "froid,salade,emporter"
     },
     {
         "label": "MacDo",
         "closed_day": "",
-        "tag": "chaud,gras,burger"
+        "tag": "chaud,gras,burger,emporter,rapide"
     },
     {
         "label": "Santosha",
         "closed_day": "",
-        "tag": "chaud,asiatique"
+        "tag": "chaud,asiatique,emporter"
     },
     {
         "label": "Bistrot Régent",
         "closed_day": "",
-        "tag": "chaud,francais"
+        "tag": "chaud,francais,long"
     },
     {
         "label": "Alcala",
         "closed_day": "",
-        "tag": "chaud,pizza"
+        "tag": "chaud,pizza,italien,long"
     },
     {
         "label": "K-Thai",
         "closed_day": "",
-        "tag": "chaud,froid,asiatique"
+        "tag": "chaud,froid,asiatique,emporter"
     },
     {
         "label": "Street burger",
         "closed_day": "",
-        "tag": "chaud,gras,burger"
+        "tag": "chaud,gras,burger,emporter"
     },
     {
         "label": "Pok'n Bowl",
         "closed_day": "",
-        "tag": "chaud,froid,poke"
+        "tag": "chaud,froid,poke,emporter"
     },
     {
         "label": "Sur le pouce",
         "closed_day": "",
-        "tag": "chaud,froid,emporter,sandwich"
+        "tag": "chaud,froid,emporter,sandwich,rapide"
     },
     {
         "label": "Les halles",
@@ -57,12 +57,12 @@
     {
         "label": "Chez Emile",
         "closed_day": "",
-        "tag": ""
+        "tag": "lieu"
     },
     {
         "label": "Boulangerie Basque",
         "closed_day": "",
-        "tag": "froid,emporter,sandwich"
+        "tag": "froid,emporter,sandwich,rapide"
     },
     {
         "label": "Kebab forum",
@@ -72,47 +72,47 @@
     {
         "label": "Angelus",
         "closed_day": "lundi,mardi,mercredi,jeudi",
-        "tag": "chaud,foodtruck"
+        "tag": "chaud,foodtruck,emporter"
     },
     {
         "label": "Yu Teppanyaki",
         "closed_day": "",
-        "tag": "chaud,asiatique"
+        "tag": "chaud,asiatique,emporter"
     },
     {
         "label": "Pitaya",
         "closed_day": "",
-        "tag": "chaud,asiatique"
+        "tag": "chaud,asiatique,emporter"
     },
     {
         "label": "Aladin Kebab",
         "closed_day": "",
-        "tag": "chaud,gras,kebab"
+        "tag": "chaud,gras,kebab,emporter"
     },
     {
         "label": "BBQ Wok",
         "closed_day": "",
-        "tag": "chaud,asiatique"
+        "tag": "chaud,asiatique,atester"
     },
     {
         "label": "CFC",
         "closed_day": "",
-        "tag": "chaud,gras,burger"
+        "tag": "chaud,gras,burger,emporter"
     },
     {
         "label": "Yamato",
         "closed_day": "lundi",
-        "tag": "chaud,asiatique,sushi"
+        "tag": "chaud,froid,asiatique,sushi,long"
     },
     {
         "label": "O'Tacos",
         "closed_day": "",
-        "tag": "chaud,gras"
+        "tag": "chaud,gras,emporter,tacos"
     },
     {
         "label": "Carpe Diem",
         "closed_day": "",
-        "tag": "chaud,francais"
+        "tag": "chaud,francais,long"
     },
     {
         "label": "Burger King",
@@ -122,17 +122,17 @@
     {
         "label": "48",
         "closed_day": "",
-        "tag": "froid,sandwich,emporter"
+        "tag": "froid,sandwich,emporter,rapide"
     },
     {
         "label": "Kobo Sushi",
         "closed_day": "",
-        "tag": "froid,asiatique,sushi"
+        "tag": "froid,asiatique,sushi,long"
     },
     {
         "label": "Fac Kebab",
         "closed_day": "",
-        "tag": "chaud"
+        "tag": "chaud,emporter,gras,kebab"
     },
     {
         "label": "Krousty",
@@ -147,21 +147,21 @@
     {
         "label": "Poke Moon",
         "closed_day": "",
-        "tag": "froid,poke"
+        "tag": "froid,poke,emporter,salade"
     },
     {
         "label": "Pizzeria du marché",
         "closed_day": "",
-        "tag": "chaud,pizza,italien"
+        "tag": "chaud,pizza,italien,emporter"
     },
     {
         "label": "Rooster",
         "closed_day": "",
-        "tag": "chaud,burger,gras"
+        "tag": "chaud,burger,gras,atester"
     },
     {
         "label": "Ragazzi Di Peppone",
         "closed_day": "",
-        "tag": "chaud,italien"
+        "tag": "chaud,italien,long,atester"
     }
 ]
