@@ -51,13 +51,8 @@
     },
     {
         "label": "Les halles",
-        "closed_day": "",
+        "closed_day": "lundi",
         "tag": "chaud,froid"
-    },
-    {
-        "label": "Chez Emile",
-        "closed_day": "",
-        "tag": "lieu"
     },
     {
         "label": "Boulangerie Basque",
@@ -105,11 +100,6 @@
         "tag": "chaud,froid,asiatique,sushi,long"
     },
     {
-        "label": "O'Tacos",
-        "closed_day": "",
-        "tag": "chaud,gras,emporter,tacos"
-    },
-    {
         "label": "Carpe Diem",
         "closed_day": "",
         "tag": "chaud,francais,long"
@@ -118,11 +108,6 @@
         "label": "Burger King",
         "closed_day": "",
         "tag": "chaud,gras,burger"
-    },
-    {
-        "label": "48",
-        "closed_day": "",
-        "tag": "froid,sandwich,emporter,rapide"
     },
     {
         "label": "Kobo Sushi",
