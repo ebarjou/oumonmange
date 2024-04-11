@@ -108,5 +108,10 @@
         "label": "Tami",
         "closed_day": "",
         "tag": "atester,indien"
+    },
+    {
+        "label": "La petite cuisine de Marguerite",
+        "closed_day" : "lundi",
+        "tag" : "libanais"
     }
 ]
