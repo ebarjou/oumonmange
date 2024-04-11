@@ -10,12 +10,12 @@
         "tag": "froid,salade,emporter"
     },
     {
-        "label": "MacDo",
+        "label": "Fast-Food",
         "closed_day": "",
         "tag": "chaud,gras,burger,emporter,rapide"
     },
     {
-        "label": "Santosha",
+        "label": "Santosha/Yu/KThai",
         "closed_day": "",
         "tag": "chaud,asiatique,emporter"
     },
@@ -23,26 +23,6 @@
         "label": "Bistrot Régent",
         "closed_day": "",
         "tag": "chaud,francais,long"
-    },
-    {
-        "label": "Alcala",
-        "closed_day": "",
-        "tag": "chaud,pizza,italien,long"
-    },
-    {
-        "label": "K-Thai",
-        "closed_day": "",
-        "tag": "chaud,froid,asiatique,emporter"
-    },
-    {
-        "label": "Street burger",
-        "closed_day": "",
-        "tag": "chaud,gras,burger,emporter"
-    },
-    {
-        "label": "Pok'n Bowl",
-        "closed_day": "",
-        "tag": "chaud,froid,poke,emporter"
     },
     {
         "label": "Sur le pouce",
@@ -60,7 +40,7 @@
         "tag": "froid,emporter,sandwich,rapide"
     },
     {
-        "label": "Kebab forum",
+        "label": "Kebab",
         "closed_day": "",
         "tag": "chaud,gras,kebab"
     },
@@ -70,29 +50,9 @@
         "tag": "chaud,foodtruck,emporter"
     },
     {
-        "label": "Yu Teppanyaki",
-        "closed_day": "",
-        "tag": "chaud,asiatique,emporter"
-    },
-    {
-        "label": "Pitaya",
-        "closed_day": "",
-        "tag": "chaud,asiatique,emporter"
-    },
-    {
-        "label": "Aladin Kebab",
-        "closed_day": "",
-        "tag": "chaud,gras,kebab,emporter"
-    },
-    {
         "label": "BBQ Wok",
         "closed_day": "",
         "tag": "chaud,asiatique,atester"
-    },
-    {
-        "label": "CFC",
-        "closed_day": "",
-        "tag": "chaud,gras,burger,emporter"
     },
     {
         "label": "Yamato",
@@ -105,24 +65,9 @@
         "tag": "chaud,francais,long"
     },
     {
-        "label": "Burger King",
-        "closed_day": "",
-        "tag": "chaud,gras,burger"
-    },
-    {
         "label": "Kobo Sushi",
         "closed_day": "",
         "tag": "froid,asiatique,sushi,long"
-    },
-    {
-        "label": "Fac Kebab",
-        "closed_day": "",
-        "tag": "chaud,emporter,gras,kebab"
-    },
-    {
-        "label": "Krousty",
-        "closed_day": "",
-        "tag": "chaud,asiatique,gras"
     },
     {
         "label": "Twist'n creps",
@@ -140,11 +85,6 @@
         "tag": "chaud,pizza,italien,emporter"
     },
     {
-        "label": "Rooster",
-        "closed_day": "",
-        "tag": "chaud,burger,gras,atester"
-    },
-    {
         "label": "Ragazzi Di Peppone",
         "closed_day": "",
         "tag": "chaud,italien,long,atester"
@@ -153,5 +93,20 @@
         "label": "Tasty Grill",
         "closed_day": "",
         "tag": "chaud,long"
-    }
+    },
+    {
+        "label": "Antam",
+        "closed_day": "",
+        "tag": "chaud"
+    },
+    {
+        "label": "Wayo Wayo",
+        "closed_day": "",
+        "tag": "chaud,rapide"
+    },
+    {
+        "label": "Tami",
+        "closed_day": "",
+        "tag": "atester,indien"
+    },
 ]
